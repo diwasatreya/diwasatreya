@@ -9,5 +9,5 @@
 </p>
 
  ## Language Used
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasatreya&show_icons=true&layout=compact&hide_border=true&theme=dark" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya)]()
+
