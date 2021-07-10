@@ -9,5 +9,5 @@
 </p>
 
  ## Language Used
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya)]()
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya)
 
