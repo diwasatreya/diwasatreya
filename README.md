@@ -1,1 +1,1 @@
-![xCuzSkillz's github stats](https://github-readme-stats.vercel.app/api?username=xCuzSkillz&show_icons=true&theme=tokyonight)
+![Atreya YT's Github Stats](https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&theme=tokyonight)
