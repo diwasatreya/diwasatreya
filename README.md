@@ -1,5 +1,4 @@
-Diwas Atreya
-
+<span style="font-family: 'Diwas Atreya';">foo</span>
 ![Atreya YT's Github Stats](https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&theme=tokyonight)
 
 ![Atreya YT Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya&theme=tokyonight)
