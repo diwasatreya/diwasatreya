@@ -10,5 +10,9 @@ I am here **Diwas Atreya** I have done IT courses and I have more knowledge and 
 # Languages used in my repositories
 ![Atreya YT Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya&theme=tokyonight)
  
-![Discord Banner 2](https://discordapp.com/api/guilds/708565122188312579/widget.png?style=banner2)
+ 
+ # Discord Server
+[![Discord Banner 2](https://discordapp.com/api/guilds/708565122188312579/widget.png?style=banner2)](https://discord.gg/gU7XAxTpX5)
+
+A Discord Community of developers and gamers. Here you will find many important and common things you must know. We give you chance to share your project and you can advertise your social account. We always lisen your voice and we will keep supporting you and you guyz also keep suporting us.
 
