@@ -5,10 +5,6 @@ I am here **Diwas Atreya** I have done IT courses and I have more knowledge and 
 
 ## Github Stats
 ![Atreya YT's Github Stats](https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&theme=tokyonight)
-
-
-# Languages used in my repositories
-![Atreya YT Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya&theme=tokyonight)
  
  
  # Discord Server
