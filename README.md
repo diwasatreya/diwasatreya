@@ -10,4 +10,5 @@ I am here **Diwas Atreya** I have done IT courses and I have more knowledge and 
 # Languages used in my repositories
 ![Atreya YT Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diwasatreya&theme=tokyonight)
  
-<iframe src="https://discord.com/widget?id=708565122188312579&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+![Discord Banner 2](https://discordapp.com/api/guilds/708565122188312579/widget.png?style=banner2)
+
