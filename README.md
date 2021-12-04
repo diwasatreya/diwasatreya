@@ -1,7 +1,7 @@
 # Information
 Hey everyone, 
 
-I am here **Diwas Atreya** I have done IT courses and I have more knowledge and experience in coding. You can contact me in discord `Supreme#2401` to get any kind of help. Also **follow me** in github for ore updates!!. Please support me by adding star and folking my projects.
+I am here **Diwas Atreya**I have more knowledge and experience in coding. You can contact me in discord `Supreme#2401` to get any kind of help. Also **follow me** in github for ore updates!!. Please support me by adding star and folking my projects.
 
 ## Github Stats
 ![Atreya YT's Github Stats](https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&theme=tokyonight)
