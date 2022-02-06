@@ -1,8 +1,5 @@
 [![Diwas Atreya](https://media.discordapp.net/attachments/773569896168292352/939882937380405298/Professional_Web_Developer_Creative_Teal_Yellow_and_Orange_LinkedIn_Banner.png?width=1025&height=308)](https://diwasatreya.tech/discord)
 
-
-
-<h1 align="center">Hi 👋, I'm Diwas Atreya</h1>
 <h3 align="center">A full stack developer who loves exploring new idea an concept in programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
