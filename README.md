@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm 18 years old xDD**
 
-(img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/773569896168292352/939889232481247292/Purple_Gradient_Illustrated_Programmer_Instagram_Post.png?width=480&height=480")
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/773569896168292352/939889232481247292/Purple_Gradient_Illustrated_Programmer_Instagram_Post.png?width=480&height=480")>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
