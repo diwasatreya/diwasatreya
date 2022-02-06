@@ -1,3 +1,7 @@
+[![Diwas Atreya](https://www.canva.com/design/DAE3lefBJLI/eLO7n5MXcavaS1Ea2iu0FA/view?utm_content=DAE3lefBJLI&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)](https://diwasatreya.tech/discord)
+
+
+
 <h1 align="center">Hi 👋, I'm Diwas Atreya</h1>
 <h3 align="center">A full stack developer who loves exploring new idea an concept in programming.</h3>
 
