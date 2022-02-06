@@ -2,7 +2,7 @@
 
 <h3 align="center">A full stack developer who loves exploring new idea an concept in programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
 
 
 - 🌱 I’m currently learning **PHP and MySQL**
