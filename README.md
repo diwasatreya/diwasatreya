@@ -4,21 +4,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diwasatreya" alt="diwasatreya" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/diwasatreya" target="blank"><img src="https://img.shields.io/twitter/follow/diwasatreya?logo=twitter&style=for-the-badge" alt="diwasatreya" /></a> </p>
+- 🌱 I’m currently learning **PHP and MySQL**
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 👯 I’m looking to collaborate on **Discord**
 
-- 👯 I’m looking to collaborate on **Discord Developers**
-
-- 💬 Ask me about **react, nodejs**
+- 💬 Ask me about **nodejs and react**
 
 - 📫 How to reach me **diwasatreya46@gmail.com**
 
 - 📄 Join my discord [https://discord.gg/whJeF4mDAX](https://discord.gg/whJeF4mDAX)
 
-- ⚡ Fun fact **I think I am dumb ass LMAO**
+- ⚡ Fun fact **I'm 18 years old xDD**
+
+(img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/773569896168292352/939889232481247292/Purple_Gradient_Illustrated_Programmer_Instagram_Post.png?width=480&height=480")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
