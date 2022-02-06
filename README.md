@@ -1,4 +1,4 @@
-[![Diwas Atreya](https://www.canva.com/design/DAE3lefBJLI/eLO7n5MXcavaS1Ea2iu0FA/view?utm_content=DAE3lefBJLI&utm_campaign=designshare&utm_medium=link&utm_source=shareyourdesignpanel)](https://diwasatreya.tech/discord)
+[![Diwas Atreya](https://media.discordapp.net/attachments/773569896168292352/939882937380405298/Professional_Web_Developer_Creative_Teal_Yellow_and_Orange_LinkedIn_Banner.png?width=1025&height=308)](https://diwasatreya.tech/discord)
 
 
 
