@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP and MySQL**
 
-- 👯 I’m looking to collaborate on **Discord**
+- 👯 I’m looking to collaborate on **IPPLO**
 
 - 💬 Ask me about **nodejs and react**
 
