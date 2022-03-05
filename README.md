@@ -17,7 +17,7 @@
 
 - 📄 Join my discord [https://discord.gg/whJeF4mDAX](https://discord.gg/whJeF4mDAX)
 
-- ⚡ Fun fact **I'm 18 years old xDD**
+- ⚡ Fun fact **I'm around 18 yo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
