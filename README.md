@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
 
 
-- 🌱 I’m currently learning **Full JS and css**
+- 🌱 I’m currently learning **full JS and css**
 
 - 👯 I’m looking to collaborate on **Aromax**
 
