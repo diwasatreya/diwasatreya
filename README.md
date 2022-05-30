@@ -1,4 +1,6 @@
-
+<audio autoplay loop>
+      <source src="test.mp3">
+</audio>
 <img src="a_diwasbanner.png" style="border-radius:25px">
 <h3 align="center">A full stack developer who loves exploring new idea and concept in programming.</h3>
 
