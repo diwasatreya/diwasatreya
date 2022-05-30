@@ -1,8 +1,7 @@
-<audio autoplay loop>
-      <source src="test.mp3">
-</audio>
+
+<h1 align="center">Hello, world! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25"></h1>
 <img src="a_diwasbanner.png" style="border-radius:25px">
-<h3 align="center">A full stack developer who loves exploring new idea and concept in programming.</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
 
