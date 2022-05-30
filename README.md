@@ -1,5 +1,5 @@
 
-<img src="Diwas Atreya.gif" style="border-radius:25px">
+<img src="a_diwasbanner.png" style="border-radius:25px">
 <h3 align="center">A full stack developer who loves exploring new idea and concept in programming.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20views&color=0e75b6&style=flat" alt="diwasatreya" /> </p>
