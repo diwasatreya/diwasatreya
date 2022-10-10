@@ -11,3 +11,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&locale=en&theme=dark" alt="diwasatreya" />
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=diwasatreya&show_icons=true&locale=en&layout=compact&theme=dark" alt="diwasatreya" /></p> -->
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwasatreya&theme=dark" alt="diwasatreya" /> -->
+
+<a href="https://github.com/diwasatreya"><img alt="Diwas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=diwasatreya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
