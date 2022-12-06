@@ -1,4 +1,4 @@
-<img src="2ldg50.jpg" style="border-radius:25px">
+<img src="b_diwasatreya.png" style="border-radius:25px">
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&locale=en&theme=dark" alt="diwasatreya" />
 
