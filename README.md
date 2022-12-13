@@ -1,6 +1,5 @@
 <img src="b_diwas.png" style="border-radius:25px">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwasatreya&show_icons=true&locale=en&theme=dark" alt="diwasatreya" />
 
 ```js
 const diwas = {
