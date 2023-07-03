@@ -14,3 +14,9 @@ const diwas = {
     skills: ["playing-guitar", "leadership", "problem-solving", "graphic-designer"],
 }
 ```
+
+
+## Need Custom Bot? 
+Contact me in Fiverr for a custom discord bot!
+- Username: `diptiatreya`
+- Visit: https://www.fiverr.com/diptiatreya
