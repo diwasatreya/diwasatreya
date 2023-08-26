@@ -1,4 +1,4 @@
-<img src="b_diwas.png" style="border-radius:25px">
+<img src="Diwas Atreya.png" style="border-radius:25px">
 <br>
 
 ```js
