@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Diwas%20Atreya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Nepal%20🇳🇵&descSize=18&descAlignY=52" alt="Header"/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
@@ -203,14 +201,5 @@ I'm a passionate <b>software developer</b> from <b>Nepal</b> who loves turning i
 <a href="https://ko-fi.com/diwasatreya" target="_blank">
   <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
 </a>
-
-</div>
-
-<br/>
-
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
