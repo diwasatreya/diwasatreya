@@ -30,7 +30,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hey there, I'm Diwas!
 
 <picture>
-<img align="right" alt="Coding" width="40%" src="https://raw.githubusercontent.com/diwasatreya/diwasatreya/master/code.gif"/>
+<img align="right" alt="Coding" width="35%" src="https://raw.githubusercontent.com/diwasatreya/diwasatreya/master/code.gif"/>
 </picture>
 
 ```yaml
@@ -50,7 +50,7 @@ I'm a passionate <b>software developer</b> from <b>Nepal</b> who loves turning i
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 <picture>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="40%"/>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="35%"/>
 </picture>
 
 - 🎓 &nbsp;**BCA Student**, building a strong foundation in Computer Science
