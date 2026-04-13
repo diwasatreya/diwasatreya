@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hey there, I'm Diwas!
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/diwasatreya/diwasatreya/master/code.gif"/>
 
 ```yaml
 name: Diwas Atreya
