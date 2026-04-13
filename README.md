@@ -1,32 +1,36 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1"
+      alt="Typing SVG"
+      width="100%"
+    />
   </a>
 
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20Views&color=58A6FF&style=for-the-badge&logo=github" alt="Profile Views"/>
+
+  <img src="https://komarev.com/ghpvc/?username=diwasatreya&label=Profile%20Views&color=58A6FF&style=for-the-badge&logo=github" />
   &nbsp;
   <a href="https://github.com/diwasatreya?tab=followers">
-    <img src="https://img.shields.io/github/followers/diwasatreya?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/diwasatreya?label=Followers&style=for-the-badge&color=58A6FF&logo=github"/>
   </a>
   &nbsp;
   <a href="https://github.com/diwasatreya?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/diwasatreya?label=Total%20Stars&style=for-the-badge&color=58A6FF&logo=github" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/diwasatreya?label=Stars&style=for-the-badge&color=58A6FF&logo=github"/>
   </a>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Hey there, I'm Diwas!
 
 <picture>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/diwasatreya/diwasatreya/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/diwasatreya/diwasatreya/master/code.gif"/>
 </picture>
 
 ```yaml
@@ -46,7 +50,7 @@ I'm a passionate <b>software developer</b> from <b>Nepal</b> who loves turning i
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 <picture>
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="300"/>
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer" width="320"/>
 </picture>
 
 - 🎓 &nbsp;**BCA Student**, building a strong foundation in Computer Science
