@@ -35,10 +35,8 @@
 
 ```yaml
 name: Diwas Atreya
-location: Nepal
-role: Software Developer & BCA Student
+role: Software Developer
 passion: Building good solutions to complex problems
-motto: "Code is poetry written in logic."
 ```
 
 <p align="left">
